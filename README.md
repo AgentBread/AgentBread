@@ -3,7 +3,4 @@ I am a self-thaught programming enthusiast, coming from the field of Medical and
 
 I always appreciate any constructive feedback, good coffee and hand-made bread!
 
-Currently, I am aiming to expand my image analysis and data mining skills in Python through readily available resources online, as well as dipping into the enormous world of C++. 
-
-Stay curious!
-A.B.
+Currently, I creating small programs in Python3 that help analyse and visualize protein structures.
